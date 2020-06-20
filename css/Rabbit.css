@@ -1,0 +1,25 @@
+table{
+	margin: auto;
+/* 	border: thin solid white; */
+	border-collapse: collapse;
+}
+td{
+	border: 2px solid white;
+	width: 250px;
+	height: 50px;
+	padding: 2px;
+	line-height: 2;
+	font-size: 14px;
+	padding: 0px;
+	
+}
+td img{
+	margin-left: 25px;
+	margin-top:5px ;
+}
+#center{
+	width: 750px;
+	color: white;
+	margin: auto;
+	margin-top: 20px;
+}

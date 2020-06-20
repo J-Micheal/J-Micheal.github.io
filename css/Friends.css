@@ -1,0 +1,57 @@
+.book{
+	width: 700px;
+	height: 800px;
+	background: url("../index/2_3.jpg") no-repeat 0 0;
+	background-size:100% 100%;
+	background-attachment:fixed;
+	margin: auto;	
+	position: absolute;
+	left: 300px;
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+span{
+/* 	color: #BDBDBD; */
+	margin: auto;
+}
+.con_1{
+	width: 400px;
+	height: 200px;
+	font-family: 宋体;
+	font-size: 16px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 50px;
+}
+.con_2{
+	width: 400px;
+	height: 200px;
+	font-family: 宋体;
+	font-size: 16px;
+	float: right;
+	margin-right: 40px;
+	margin-top: 40px;
+}
+.img_1{
+	width: 200px;
+	height: 200px;
+	float: left;
+	box-shadow: 2px 4px 6px #000;
+}
+.img_2{
+	width: 200px;
+	height: 200px;
+	float:right;
+	box-shadow: 2px 4px 6px #000;
+}
+.row{
+	width: 680px;
+	height: 200px;
+	margin: auto;
+	border-top: 2px solid #BDBDBD;
+	position: relative;
+	box-shadow: 2px 4px 6px #000;
+	top: 30px;
+}
